@@ -1,6 +1,6 @@
 adress : https://github.com/JeanCellier/FilmTies.git ( provided by gitHub )
 
-Commit :
+First Commit :
 
  1)open GitBash
 
@@ -18,6 +18,21 @@ Commit :
 
  8)git push Gittest(repository name) master
 
+All other commits :
+ 
+ 1)open GitBash
+
+ 2)go to the repository you want to commit
+ 
+ 3)git add --all
+
+ 4)git commit -m "comment on the commit"
+
+ 5)git pull Gittest(repository name) master
+
+ 6)git push Gittest(repository name) master
+
+
 Clone :
 
  1)create a new folder, where you want the gitHub files to arrive
@@ -26,4 +41,4 @@ Clone :
 
  3)go to the created folder
 
- 4)git clone git clone git://github.com/JeanCellier/FilmTies.git
+ 4)git clone git://github.com/JeanCellier/FilmTies.git
