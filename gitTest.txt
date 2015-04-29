@@ -1,1 +1,29 @@
-lfugjApghidhgurhg8yhaergh
+adress : https://github.com/JeanCellier/FilmTies.git ( provided by gitHub )
+
+Commit :
+
+ 1)open GitBash
+
+ 2)go to the repository you want to commit 
+
+ 3)git init
+
+ 4)git add --all
+
+ 5)git remote add Gittest(repository name) https://github.com/JeanCellier/FilmTies.git
+
+ 6)git commit -m "comment on the commit"
+
+ 7)git pull Gittest(repository name) master
+
+ 8)git push Gittest(repository name) master
+
+Clone :
+
+ 1)create a new folder, where you want the gitHub files to arrive
+
+ 2)open GitBash
+
+ 3)go to the created folder
+
+ 4)git clone git clone git://github.com/JeanCellier/FilmTies.git
